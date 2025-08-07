@@ -1,5 +1,7 @@
 # ✨ Full Stack Realtime Chat App ✨
 
+credits:  burakorkmez Burak 
+ 
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
